@@ -104,6 +104,3 @@ To build a robust and scalable model that detects fraudulent transactions in rea
 4. [Streamlit Documentation](https://streamlit.io/)  
 
 ---
-
-## 👨‍💻 Developed By
-**Anirudh Sharma** and **Shivanshu Saini**
