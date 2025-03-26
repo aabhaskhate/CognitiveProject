@@ -1,0 +1,101 @@
+Customer_ID,Customer_Name,Gender,Age,State,City,Bank_Branch,Account_Type,Transaction_Device,Device_Type,Merchant_Category,Transaction_Location,Transaction_Amount,Account_Balance,Transaction_Date,Time_of_Day
+CUST_00001,Customer_1,F,63,Delhi,Delhi,Andheri,Current,Mobile,iOS,Entertainment,Kolkata,29914.86,94279.25,2023-02-25,Night
+CUST_00002,Customer_2,M,42,Delhi,Mumbai,Park Street,Current,POS,Android,Travel,Bangalore,41976.03,64551.68,2023-07-13,Evening
+CUST_00003,Customer_3,M,32,Maharashtra,Mumbai,Anna Nagar,Savings,Online,Android,Clothing,Bangalore,28211.46,5757.11,2023-12-07,Night
+CUST_00004,Customer_4,M,39,Delhi,Pune,Andheri,Current,POS,Android,Travel,Chennai,75927.89,11426.89,2023-12-23,Afternoon
+CUST_00005,Customer_5,F,48,Tamil Nadu,Pune,Connaught Place,Current,Mobile,MacOS,Entertainment,Bangalore,49355.6,80429.85,2023-09-22,Afternoon
+CUST_00006,Customer_6,M,46,Maharashtra,Mumbai,MG Road,Savings,Online,Windows,Food,Mumbai,82358.86,65574.65,2023-01-16,Evening
+CUST_00007,Customer_7,M,31,West Bengal,Pune,Park Street,Savings,ATM,Android,Electronics,Chennai,15060.26,9139.89,2023-07-10,Morning
+CUST_00008,Customer_8,M,24,Tamil Nadu,Pune,Connaught Place,Current,Mobile,iOS,Electronics,Mumbai,39629.35,70802.25,2023-12-12,Evening
+CUST_00009,Customer_9,F,56,West Bengal,Kolkata,Andheri,Savings,POS,Windows,Entertainment,Delhi,30260.71,24163.95,2023-08-12,Night
+CUST_00010,Customer_10,M,28,West Bengal,Kolkata,Anna Nagar,Current,Online,Windows,Travel,Kolkata,36786.13,76846.43,2023-01-21,Evening
+CUST_00011,Customer_11,M,19,Tamil Nadu,Pune,Andheri,Savings,POS,Windows,Entertainment,Bangalore,69505.37,16368.82,2023-06-28,Morning
+CUST_00012,Customer_12,F,53,Maharashtra,Bangalore,Connaught Place,Savings,Mobile,MacOS,Travel,Bangalore,47381.63,99267.92,2023-05-03,Afternoon
+CUST_00013,Customer_13,F,43,West Bengal,Mumbai,MG Road,Current,Mobile,Android,Travel,Bangalore,18465.6,74152.04,2023-05-11,Afternoon
+CUST_00014,Customer_14,M,51,Tamil Nadu,Bangalore,Connaught Place,Current,Online,Windows,Entertainment,Mumbai,93851.37,92203.9,2023-11-18,Morning
+CUST_00015,Customer_15,F,60,Tamil Nadu,Chennai,Anna Nagar,Savings,POS,iOS,Travel,Bangalore,55511.53,59356.83,2023-01-11,Morning
+CUST_00016,Customer_16,M,18,Delhi,Pune,Anna Nagar,Current,POS,MacOS,Electronics,Bangalore,52807.32,53015.85,2023-12-20,Evening
+CUST_00017,Customer_17,M,37,Maharashtra,Delhi,MG Road,Savings,Mobile,Windows,Electronics,Mumbai,87617.6,89990.29,2023-04-14,Night
+CUST_00018,Customer_18,F,44,Karnataka,Pune,MG Road,Savings,ATM,Android,Travel,Kolkata,54579.23,69753.63,2023-05-04,Night
+CUST_00019,Customer_19,F,36,West Bengal,Mumbai,Andheri,Current,Mobile,iOS,Electronics,Kolkata,14735.07,32450.54,2023-02-22,Evening
+CUST_00020,Customer_20,F,19,Maharashtra,Delhi,Anna Nagar,Current,Mobile,MacOS,Electronics,Bangalore,61997.16,58171.79,2023-09-18,Evening
+CUST_00021,Customer_21,F,30,West Bengal,Kolkata,Park Street,Current,ATM,iOS,Travel,Delhi,33449.82,90044.41,2023-04-08,Night
+CUST_00022,Customer_22,F,20,Maharashtra,Kolkata,Anna Nagar,Savings,ATM,Windows,Food,Chennai,58279.11,83597.43,2023-11-07,Morning
+CUST_00023,Customer_23,M,63,Delhi,Mumbai,Park Street,Savings,POS,Windows,Entertainment,Delhi,41802.77,40646.57,2023-12-01,Evening
+CUST_00024,Customer_24,F,21,Delhi,Chennai,Connaught Place,Current,POS,Windows,Entertainment,Bangalore,60811.74,72610.34,2023-03-05,Afternoon
+CUST_00025,Customer_25,M,31,Karnataka,Bangalore,Connaught Place,Current,POS,Windows,Food,Delhi,7001.94,80322.16,2023-09-27,Night
+CUST_00026,Customer_26,F,31,Maharashtra,Kolkata,Anna Nagar,Savings,ATM,Android,Clothing,Bangalore,18408.04,16183.41,2023-08-10,Morning
+CUST_00027,Customer_27,M,51,Maharashtra,Delhi,MG Road,Current,Online,Windows,Entertainment,Chennai,55149.94,78276.56,2023-10-12,Morning
+CUST_00028,Customer_28,F,53,Delhi,Pune,MG Road,Savings,Online,Android,Food,Delhi,69149.54,5321.26,2023-05-11,Evening
+CUST_00029,Customer_29,F,35,Maharashtra,Delhi,Park Street,Savings,POS,Android,Electronics,Delhi,33149.97,22694.5,2023-03-24,Afternoon
+CUST_00030,Customer_30,M,45,West Bengal,Kolkata,Park Street,Savings,POS,MacOS,Food,Delhi,99112.3,35084.26,2023-12-26,Night
+CUST_00031,Customer_31,F,46,West Bengal,Pune,MG Road,Current,ATM,iOS,Clothing,Delhi,42491.46,58427.96,2023-12-05,Afternoon
+CUST_00032,Customer_32,F,25,Tamil Nadu,Bangalore,Anna Nagar,Current,Mobile,Windows,Travel,Kolkata,20184.15,47077.19,2023-12-27,Morning
+CUST_00033,Customer_33,M,28,Karnataka,Chennai,Anna Nagar,Savings,Online,MacOS,Travel,Delhi,12492.52,79090.38,2023-05-02,Evening
+CUST_00034,Customer_34,F,54,Delhi,Delhi,Anna Nagar,Savings,Online,Windows,Entertainment,Mumbai,96980.97,43045.08,2023-03-24,Night
+CUST_00035,Customer_35,M,28,Karnataka,Kolkata,Anna Nagar,Current,POS,MacOS,Entertainment,Chennai,61851.01,49197.72,2023-02-09,Evening
+CUST_00036,Customer_36,M,54,Delhi,Pune,MG Road,Current,Online,MacOS,Entertainment,Mumbai,50181.97,12294.84,2023-06-16,Afternoon
+CUST_00037,Customer_37,M,38,West Bengal,Kolkata,Park Street,Current,POS,iOS,Food,Delhi,57128.54,21403.85,2023-03-05,Afternoon
+CUST_00038,Customer_38,M,20,Tamil Nadu,Pune,Anna Nagar,Savings,POS,Windows,Food,Delhi,28561.93,76524.61,2023-09-03,Afternoon
+CUST_00039,Customer_39,M,27,Delhi,Bangalore,Connaught Place,Current,Online,iOS,Travel,Chennai,43559.02,52920.19,2023-01-21,Evening
+CUST_00040,Customer_40,M,37,Delhi,Pune,Connaught Place,Current,ATM,iOS,Clothing,Kolkata,52884.38,5842.75,2023-08-28,Morning
+CUST_00041,Customer_41,M,18,Tamil Nadu,Mumbai,Andheri,Current,Online,iOS,Travel,Delhi,81653.51,3225.12,2023-02-14,Afternoon
+CUST_00042,Customer_42,F,33,Delhi,Kolkata,Park Street,Savings,Online,Windows,Travel,Bangalore,15296.68,94903.41,2023-01-03,Afternoon
+CUST_00043,Customer_43,F,40,Delhi,Delhi,Anna Nagar,Current,POS,Android,Clothing,Mumbai,77604.25,35224.98,2023-10-17,Evening
+CUST_00044,Customer_44,F,22,Delhi,Bangalore,Connaught Place,Current,POS,Android,Food,Chennai,62776.64,19347.28,2023-11-24,Morning
+CUST_00045,Customer_45,M,40,Karnataka,Delhi,Anna Nagar,Savings,POS,Android,Electronics,Kolkata,28043.83,7312.6,2023-06-16,Morning
+CUST_00046,Customer_46,M,35,West Bengal,Delhi,Park Street,Current,Online,MacOS,Travel,Delhi,34410.41,31656.67,2023-08-16,Evening
+CUST_00047,Customer_47,M,34,Delhi,Mumbai,Andheri,Current,Mobile,MacOS,Electronics,Kolkata,50762.83,86704.64,2023-07-10,Morning
+CUST_00048,Customer_48,F,54,West Bengal,Delhi,Connaught Place,Savings,ATM,MacOS,Entertainment,Mumbai,81855.86,87407.22,2023-04-30,Night
+CUST_00049,Customer_49,M,18,Tamil Nadu,Bangalore,Andheri,Current,Online,MacOS,Food,Delhi,50351.81,74495.87,2023-05-27,Afternoon
+CUST_00050,Customer_50,F,46,Delhi,Bangalore,Andheri,Savings,POS,Windows,Entertainment,Mumbai,29703.79,70103.36,2023-03-12,Evening
+CUST_00051,Customer_51,F,56,Tamil Nadu,Mumbai,Andheri,Savings,ATM,Android,Food,Delhi,15446.24,13669.14,2023-09-05,Afternoon
+CUST_00052,Customer_52,M,47,Karnataka,Delhi,Andheri,Current,ATM,Android,Travel,Delhi,83624.03,27297.98,2023-09-22,Morning
+CUST_00053,Customer_53,M,23,Tamil Nadu,Kolkata,Connaught Place,Savings,Online,Windows,Food,Bangalore,95278.11,34525.16,2023-11-08,Afternoon
+CUST_00054,Customer_54,F,31,Maharashtra,Pune,Andheri,Current,Online,iOS,Travel,Mumbai,23296.94,40943.18,2023-04-22,Afternoon
+CUST_00055,Customer_55,F,56,Karnataka,Chennai,MG Road,Savings,ATM,Android,Clothing,Mumbai,91382.92,7167.38,2023-03-01,Night
+CUST_00056,Customer_56,M,52,Karnataka,Kolkata,Park Street,Savings,POS,Windows,Electronics,Bangalore,93130.65,99553.74,2023-08-17,Morning
+CUST_00057,Customer_57,F,54,Maharashtra,Bangalore,Andheri,Savings,POS,Android,Travel,Kolkata,90254.19,55660.18,2023-12-19,Afternoon
+CUST_00058,Customer_58,F,50,Tamil Nadu,Mumbai,Connaught Place,Savings,ATM,iOS,Travel,Chennai,48541.27,52552.16,2023-11-03,Night
+CUST_00059,Customer_59,F,37,West Bengal,Kolkata,Connaught Place,Savings,Mobile,iOS,Travel,Delhi,70703.17,24359.34,2023-10-01,Morning
+CUST_00060,Customer_60,F,52,Delhi,Kolkata,Andheri,Current,ATM,Windows,Food,Chennai,47944.6,50970.37,2023-06-21,Afternoon
+CUST_00061,Customer_61,M,38,Tamil Nadu,Bangalore,Connaught Place,Savings,Mobile,iOS,Entertainment,Kolkata,63962.95,71528.79,2023-08-24,Night
+CUST_00062,Customer_62,F,52,Tamil Nadu,Bangalore,MG Road,Current,Online,iOS,Food,Delhi,24593.58,53671.8,2023-12-13,Evening
+CUST_00063,Customer_63,M,19,Karnataka,Pune,Andheri,Current,POS,iOS,Travel,Kolkata,88464.7,22178.87,2023-10-17,Afternoon
+CUST_00064,Customer_64,M,62,Tamil Nadu,Delhi,MG Road,Current,POS,MacOS,Clothing,Mumbai,44324.57,72630.8,2023-08-25,Evening
+CUST_00065,Customer_65,M,38,Delhi,Delhi,MG Road,Savings,Mobile,iOS,Entertainment,Delhi,24968.34,43541.87,2023-03-24,Afternoon
+CUST_00066,Customer_66,M,20,Karnataka,Pune,Connaught Place,Current,Mobile,MacOS,Entertainment,Bangalore,86134.27,58937.77,2023-01-06,Night
+CUST_00067,Customer_67,F,18,West Bengal,Pune,Anna Nagar,Savings,Online,Android,Entertainment,Chennai,77262.76,1475.24,2023-06-23,Morning
+CUST_00068,Customer_68,F,20,Maharashtra,Delhi,Andheri,Current,ATM,MacOS,Food,Mumbai,41015.11,64445.96,2023-01-06,Afternoon
+CUST_00069,Customer_69,M,27,Delhi,Bangalore,MG Road,Savings,ATM,MacOS,Travel,Kolkata,13056.28,22282.12,2023-07-16,Evening
+CUST_00070,Customer_70,F,45,Karnataka,Kolkata,Andheri,Savings,ATM,Android,Electronics,Bangalore,46293.08,62229.93,2023-03-16,Afternoon
+CUST_00071,Customer_71,F,48,Maharashtra,Mumbai,Anna Nagar,Current,POS,Android,Clothing,Delhi,44558.81,54386.76,2023-07-08,Night
+CUST_00072,Customer_72,F,48,Tamil Nadu,Delhi,MG Road,Savings,Mobile,Windows,Electronics,Chennai,34464.84,81620.14,2023-06-14,Afternoon
+CUST_00073,Customer_73,F,28,Delhi,Mumbai,MG Road,Savings,ATM,Windows,Electronics,Mumbai,83725.21,16894.5,2023-01-07,Afternoon
+CUST_00074,Customer_74,M,62,Karnataka,Pune,MG Road,Savings,Online,Android,Food,Kolkata,85258.81,51118.49,2023-11-24,Morning
+CUST_00075,Customer_75,M,62,West Bengal,Delhi,Park Street,Current,Mobile,Android,Clothing,Delhi,90632.49,4582.68,2023-02-25,Afternoon
+CUST_00076,Customer_76,M,26,West Bengal,Bangalore,Connaught Place,Savings,POS,Windows,Clothing,Chennai,5490.88,14767.57,2023-02-17,Evening
+CUST_00077,Customer_77,F,63,Maharashtra,Chennai,Connaught Place,Current,Mobile,MacOS,Electronics,Delhi,40793.55,27158.05,2023-11-21,Night
+CUST_00078,Customer_78,F,25,Tamil Nadu,Pune,Andheri,Current,ATM,Android,Food,Bangalore,943.57,48468.31,2023-04-13,Night
+CUST_00079,Customer_79,F,20,Tamil Nadu,Delhi,Connaught Place,Savings,ATM,MacOS,Electronics,Chennai,32222.99,36589.08,2023-12-21,Afternoon
+CUST_00080,Customer_80,M,64,Karnataka,Pune,Park Street,Savings,Online,MacOS,Clothing,Mumbai,12987.54,77096.45,2023-01-12,Night
+CUST_00081,Customer_81,M,35,Karnataka,Mumbai,MG Road,Savings,POS,iOS,Entertainment,Delhi,19013.4,78376.2,2023-03-30,Night
+CUST_00082,Customer_82,M,55,Tamil Nadu,Kolkata,Connaught Place,Current,ATM,MacOS,Food,Kolkata,12017.36,89893.23,2023-01-15,Night
+CUST_00083,Customer_83,M,34,Delhi,Pune,Connaught Place,Current,Online,MacOS,Clothing,Mumbai,59308.12,48003.44,2023-06-23,Night
+CUST_00084,Customer_84,F,57,Delhi,Mumbai,Andheri,Savings,Mobile,iOS,Clothing,Kolkata,3953.56,53713.5,2023-06-06,Night
+CUST_00085,Customer_85,F,47,Maharashtra,Mumbai,MG Road,Current,Mobile,Windows,Food,Bangalore,63483.35,26383.66,2023-10-12,Evening
+CUST_00086,Customer_86,M,57,Maharashtra,Chennai,Park Street,Savings,Online,Android,Travel,Bangalore,15237.79,9019.86,2023-03-21,Afternoon
+CUST_00087,Customer_87,F,41,Tamil Nadu,Delhi,Anna Nagar,Savings,Mobile,MacOS,Entertainment,Chennai,99522.11,53376.58,2023-07-10,Night
+CUST_00088,Customer_88,M,46,Tamil Nadu,Delhi,MG Road,Current,Online,Android,Clothing,Bangalore,44484.74,57765.84,2023-03-30,Evening
+CUST_00089,Customer_89,M,25,Maharashtra,Delhi,Park Street,Current,POS,iOS,Travel,Delhi,48065.25,26546.97,2023-08-28,Morning
+CUST_00090,Customer_90,M,28,Delhi,Pune,MG Road,Current,ATM,MacOS,Travel,Chennai,46843.3,86581.45,2023-02-04,Morning
+CUST_00091,Customer_91,F,61,Tamil Nadu,Chennai,Andheri,Current,Mobile,iOS,Clothing,Bangalore,34286.23,97197.33,2023-03-05,Evening
+CUST_00092,Customer_92,F,44,Karnataka,Delhi,Anna Nagar,Savings,POS,MacOS,Electronics,Chennai,66487.04,83131.34,2023-09-06,Night
+CUST_00093,Customer_93,F,57,Tamil Nadu,Bangalore,Andheri,Savings,Mobile,iOS,Food,Kolkata,30002.55,1382.46,2023-02-25,Morning
+CUST_00094,Customer_94,M,23,Delhi,Mumbai,Connaught Place,Savings,Online,Android,Electronics,Kolkata,42411.88,61769.06,2023-03-08,Afternoon
+CUST_00095,Customer_95,F,56,West Bengal,Chennai,MG Road,Savings,Mobile,Windows,Food,Bangalore,65793.05,70488.12,2023-08-05,Night
+CUST_00096,Customer_96,M,57,Tamil Nadu,Kolkata,MG Road,Savings,POS,iOS,Travel,Bangalore,12623.48,55554.78,2023-11-12,Morning
+CUST_00097,Customer_97,F,49,Tamil Nadu,Bangalore,Connaught Place,Current,POS,Android,Travel,Mumbai,82145.58,46216.3,2023-09-08,Night
+CUST_00098,Customer_98,M,63,West Bengal,Chennai,Park Street,Savings,Online,iOS,Electronics,Kolkata,19644.48,20803.53,2023-10-17,Night
+CUST_00099,Customer_99,F,44,Delhi,Delhi,MG Road,Current,Mobile,Android,Food,Mumbai,38005.04,95451.63,2023-10-09,Night
+CUST_00100,Customer_100,F,36,West Bengal,Chennai,MG Road,Savings,ATM,Windows,Travel,Delhi,57302.5,22930.29,2023-09-07,Evening
